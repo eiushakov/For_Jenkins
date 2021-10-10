@@ -1,0 +1,8 @@
+**/__pycache__
+**/*.pyc
+/shelf/
+/workspace.xml
+/venv/
+/.idea/
+/.pytest_cache/
+
